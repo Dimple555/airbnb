@@ -1,0 +1,35 @@
+[
+  {
+    "name": "客服支持",
+    "list": [
+      { "text": "帮助中心", "link": "https://www.airbnb.cn/help/" },
+      { "text": "AirCover四海无优", "link": "https://www.airbnb.cn/help/article/3218" },
+      { "text": "反歧视", "link": "https://www.airbnb.cn/against-discrimination" },
+      { "text": "残障人士支持", "link": "https://www.airbnb.cn/accessibility" },
+      { "text": "取消预订的选择", "link": "https://www.airbnb.cn/help/article/1320" },
+      { "text": "举报邻里问题", "link": "https://www.airbnb.cn/help/article/3290" }
+    ]
+  },
+  {
+    "name": "出租房源",
+    "list": [
+      { "text": "来爱迎彼发布房源", "link": "https://www.airbnb.cn/host/homes?from_footer=1" },
+      { "text": "AirCover四海无优（房东版）", "link": "https://www.airbnb.cn/aircover-for-hosts" },
+      { "text": "出租资源", "link": "https://www.airbnb.cn/resources/hosting-homes" },
+      { "text": "社区论坛", "link": "https://community.withairbnb.com/t5/Community-Center/ct-p/community-center" },
+      { "text": "负责任地出租", "link": "https://www.example.com/responsible-renting" },
+      { "text": "参加免费的出租相关课程", "link": "https://introtohostingonairbnbwebinars.splashthat.com/" },
+      { "text": "寻找房屋管家", "link": "https://www.airbnb.cn/host/co-hosts" }
+    ]
+  },
+  {
+    "name": "爱迎彼",
+    "list": [
+      { "text": "新闻", "link": "https://news.airbnb.com/zh/" },
+      { "text": "新功能", "link": "https://www.airbnb.cn/" },
+      { "text": "工作机会", "link": "https://careers.airbnb.com/?cdn_cn=1" },
+      { "text": "投资者", "link": "https://investors.airbnb.com/home/default.aspx" },
+      { "text": "Airbnb紧急住宿", "link": "https://www.airbnb.com/e/airbnb-org?c=.pi130.pkairbnb-org" }
+    ]
+  }
+]
