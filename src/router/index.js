@@ -22,10 +22,6 @@ const routes = [
   {
     path:"/entire",
     element:<Entire/>
-  },
-  {
-    path:"demo",
-    element:<Demo/>
   }
 ]
 
